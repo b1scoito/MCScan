@@ -1,0 +1,9 @@
+C:\Users\rafae\Desktop\Projects\MCScan\MCScan\bin\Debug\MCScan.exe.config
+C:\Users\rafae\Desktop\Projects\MCScan\MCScan\bin\Debug\MCScan.exe
+C:\Users\rafae\Desktop\Projects\MCScan\MCScan\bin\Debug\MCScan.pdb
+C:\Users\rafae\Desktop\Projects\MCScan\MCScan\obj\Debug\MCScan.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\Projects\MCScan\MCScan\obj\Debug\MCScan.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\Projects\MCScan\MCScan\obj\Debug\MCScan.exe
+C:\Users\rafae\Desktop\Projects\MCScan\MCScan\obj\Debug\MCScan.pdb
+C:\Users\rafae\Desktop\Projects\MCScan\MCScan\obj\Debug\MCScan.Properties.Resources.resources
+C:\Users\rafae\Desktop\Projects\MCScan\MCScan\obj\Debug\MCScan.csproj.GenerateResource.cache
