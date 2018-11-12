@@ -10,7 +10,7 @@ MCScan - Procura por cheats no seu jogo (Minecraft)
 
 ## Como usar
 
-![Link](https://youtu.be/N6YrLmJJy98)
+[Link](https://youtu.be/N6YrLmJJy98)
 
 ## Erros reconhecidos
 
