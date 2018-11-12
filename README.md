@@ -23,6 +23,8 @@ Ja sei dos bugs, mas e o seguinte se o link que voce colocou retornar um erro `5
 * 3
 
 Ja sei de outro erro olhai o erro e o seguinte 
+
+
 ![Print](https://i.imgur.com/7UYKuta.png)
 
 Se sua url retornar esse icone bugado quer dizer que voce salvou em `ANSI` e ansi buga no simbulo. voce precisa salvar em `utf8` pra ter sucesso na host.
